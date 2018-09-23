@@ -1,5 +1,7 @@
 # goldberg_nnm4nlp
-Code examples from Yoav Goldberg's book "Neural Network Methods for Natural Language Processing" 2017
+Code examples from Yoav Goldberg's book "Neural Network Methods for Natural Language Processing" 2017.
+
+Everything comes in jupyter notebooks and should run in Python 3.6.
 
 # Note
 
